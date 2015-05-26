@@ -1,0 +1,21 @@
+Readme
+
+Compile all programs using make
+
+
+
+For Part 1:
+
+Run the program by running "./bin/tree (expression)"
+
+You will be prompted to enter a number 1-7, 7 exiting the program.
+
+You can calculate the answer at any time, but the default is 0.00 for variables. You must set them first
+
+
+For Part 2:
+
+Run with ./heap
+There are no command line arguments, only f.dat is needed.
+
+The sorted Heap will be shown after the oringial Info is read.

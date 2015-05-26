@@ -1,0 +1,10 @@
+Readme
+
+Compile program using make. Provided is File 1, the test file from moodle, and file 2, a one line sanity example
+1, and 2 do not have file extensions
+
+The program executes as per the instructions with the exception of size on option 5, only height will print.
+Everything else should work fine.
+
+This program does not free all memory
+Complied/Tested on OSX with -std=c99 no warnings/errors

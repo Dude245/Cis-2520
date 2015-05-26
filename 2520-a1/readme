@@ -1,0 +1,17 @@
+Readme
+
+Compile all programs using make
+
+To run program one, execute the command "./bin/a1_1" there are no inputs necessary
+
+To run program two, execute the command "./bin/a1_2",
+Enter the first number, press enter, then the second number and enter again
+
+To run program three, execute the command "./bin/a1_3",
+The program will run both recursive and non-recursive functions
+
+It will run the non-recursive function first, provide the x value, press enter,
+then provide the a value and press enter.
+
+The program will then ask for 3 new values, x,a, and e. Enter them one at
+a time and press enter after each.

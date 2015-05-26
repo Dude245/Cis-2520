@@ -1,0 +1,25 @@
+Readme
+
+Compile all programs using make
+
+For Part 1:
+
+    Execute the program by running the command: ./bin/rental
+
+    The program will read the cars.db file, and you will be prompted with 7 options.
+    Entering option 7 will write the current lists to the cars.db file.
+
+    The Car struct is as follows:
+    An interger for mileage,
+    an integer for return date,
+    and a char * for the plate string.
+
+    It also includes the pointer to the next Car Struct
+
+For Part 2:
+
+    Execute the program by running the command ./bin/post xyz where x is an integer, y is an integer, and z is an operand
+    More than one operand can be used on subsequent xyz commands.
+    Ex. 12+34*/
+    If the correct format is not entered, the program will display "Empty List" and quit.
+    If the corrent format is entered, the result will be displayed with "Value=X.xx"
